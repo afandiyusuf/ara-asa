@@ -1,0 +1,36 @@
+{	
+	"waktu":"5",
+	"soals"	:	
+				[
+					{
+						"id"	:"MBT001",
+						"pertanyaan":"ini adalah contoh pertanyaan 2 ?",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"IYA",
+					 						"id":"MBT001A"
+					 					},
+					 					{
+					 						"text":"TIDAK",
+					 						"id":"30001b"
+					 					}
+
+					 				]
+					},
+					{
+						"id"	:"30002",
+						"pertanyaan":"ini adalah contoh pertanyaan 2 ?",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"IYA",
+					 						"id":"30002a"
+					 					},
+					 					{
+					 						"text":"TIDAK",
+					 						"id":"30002b"
+					 					}
+
+					 				]
+					}
+				]
+}

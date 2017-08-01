@@ -1,0 +1,98 @@
+<!doctype html> 
+<html lang="en"> 
+<head> 
+	<meta charset="UTF-8" />
+	<title>2</title>
+
+    <!-- script phaser -->
+    <script type="text/javascript" src="./js/phaser/phaser.min.js"></script>
+
+    
+    <style type="text/css">
+
+        body {
+            margin: center;
+            padding: center;
+        }
+
+    </style>
+</head>
+
+<body>
+
+     <script type="text/javascript">
+
+    window.onload = function() {
+
+
+        var game = new Phaser.Game(399, 638, Phaser.AUTO, '', { preload: preload, create: create });
+
+        function preload () {
+            
+            game.load.atlasJSONHash('nextButtonSheet', 'Assets/Button/sheet/button_sheet.png', 'Assets/Button/sheet/button_sheet.json');
+            game.load.image('bar1','Assets/Button/Disc Opt_grey.png');
+            game.load.image('bar2','Assets/Button/Disc Opt_grey.png');
+            game.load.image('bar3','Assets/Button/Disc Opt_grey.png');
+            game.load.image('bar4','Assets/Button/Disc Opt_grey.png');
+
+
+
+        }
+
+        function create () {
+
+            game.stage.backgroundColor = "#2d2f3b";
+
+            var bar1 = game.add.sprite(200,145,'bar1');
+            bar1.scale.setTo(1.1,1.1);
+            bar1.anchor.set(0.5);
+
+            var bar2 = game.add.sprite(200,255,'bar2');
+            bar2.scale.setTo(1.1,1.1);
+            bar2.anchor.set(0.5);
+
+            var bar3 = game.add.sprite(200,365,'bar3');
+            bar3.scale.setTo(1.1,1.1);
+            bar3.anchor.set(0.5);
+
+            var bar4 = game.add.sprite(200,475,'bar4');
+            bar4.scale.setTo(1.1,1.1);
+            bar4.anchor.set(0.5);
+
+            var button = game.add.button(199.5, 580, 'nextButtonSheet', this.click, this, 'Reset button', 'Reset button', 'Reset button_act');
+            button.scale.setTo(1);
+            button.anchor.set(0.5);
+
+            var style = { font: "20px Open Sans", fill: "#FFF", boundsAlignH: "center", boundsAlignV: "middle" };
+            var style1 = { font: "16px Open Sans", fill: "#FFF", boundsAlignH: "center", boundsAlignV: "middle" };    
+        text = game.add.text(190,30,"Saat saya mendengar",style);
+        text.anchor.set(0.5);
+        text = game.add.text(195,55,"pendapat yang kurang saya setujui,",style);
+        text.anchor.set(0.5);
+        text = game.add.text(195,80,"reaksi saya adalah",style);
+        text.anchor.set(0.5);
+        text = game.add.text(195,135,"Langsung menyatakan",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,155,"tidak setuju",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,245,"Menanyakan penjelasan lebih",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,265,"jauh sebelum menyanggah",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,355,"Setuju saja untuk",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,375,"menghindari konflik",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,465,"Menggunakan humor untuk",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(195,485,"menghindari konflik",style1);
+        text.anchor.set(0.5);
+
+
+        }
+    };
+
+
+</script>
+</body>
+</html>

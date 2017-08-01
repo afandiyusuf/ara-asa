@@ -1,0 +1,198 @@
+
+{	
+	"waktu":"60",
+	"soals"	:	
+			[
+				{
+					"id"	:"ROL001",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL001A",
+				 						"text" : "Penjual"
+				 					},
+				 					{
+				 						"id" : "ROL001B",
+				 						"text" : "penseleksi"
+				 					},
+				 					{
+				 						"id" : "ROL001C",
+				 						"text" : "pencipta"
+				 					},
+				 					{
+				 						"id" : "ROL001D",
+				 						"text" : "Administrasi"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL002",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL002A",
+				 						"text" : "penghubung"
+				 					},
+				 					{
+				 						"id" : "ROL002B",
+				 						"text" : "operator"
+				 					},
+				 					{
+				 						"id" : "ROL002C",
+				 						"text" : "perancang"
+				 					},
+				 					{
+				 						"id" : "ROL002D",
+				 						"text" : "Penterjemah"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL003",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL003A",
+				 						"text" : "pengajar"
+				 					},
+				 					{		
+				 						"id" : "ROL003B",
+				 						"text" : "pengevaluasi"
+				 					},
+				 					{				
+				 						"id" : "ROL003C",
+				 						"text" : "pemasaran"
+				 					},
+				 					{						
+				 						"id" : "ROL003D",
+				 						"text" : "Penulis"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL004",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL004A",
+				 						"text" : "perwakilan"
+				 					},			
+				 					{
+				 						"id" : "ROL004B",
+				 						"text" : "memperbaiki"
+				 					},
+				 					{			
+				 						"id" : "ROL004C",
+				 						"text" : "Pengatur strategi"
+				 					},
+				 					{					
+				 						"id" : "ROL004D",
+				 						"text" : "Analist"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL005",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL005A",
+				 						"text" : "mediator"
+				 					},
+				 					{
+				 						"id" : "ROL005B",
+				 						"text" : "penjaga"
+				 					},
+				 					{			
+				 						"id" : "ROL005C",
+				 						"text" : "perencana"
+				 					},
+				 					{					
+				 						"id" : "ROL005D",
+				 						"text" : "Keuangan"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL006",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL006A",
+				 						"text" : "motivator"
+				 					},
+				 					{
+				 						"id" : "ROL006B",
+				 						"text" : "pengatur"
+				 					},
+				 					{			
+				 						"id" : "ROL006C",
+				 						"text" : "penyelenggara"
+				 					},
+				 					{					
+				 						"id" : "ROL006D",
+				 						"text" : "Pengurus"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL007",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL007A",
+				 						"text" : "distributor"
+				 					},
+				 					{
+				 						"id" : "ROL007B",
+				 						"text" : "pemasang"
+				 					},
+				 					{			
+				 						"id" : "ROL007C",
+				 						"text" : "penjelajah"
+				 					},
+				 					{					
+				 						"id" : "ROL007D",
+				 						"text" : "Asisten"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ROL008",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ROL008A",
+				 						"text" : "pemberi perintah"
+				 					},
+				 					{
+				 						"id" : "ROL008B",
+				 						"text" : "programmer"
+				 					},
+				 					{			
+				 						"id" : "ROL008C",
+				 						"text" : "pembuat"
+				 					},
+				 					{					
+				 						"id" : "ROL008D",
+				 						"text" : "Quality Control"
+				 					}
+				 					
+				 				]
+				}
+			]
+}

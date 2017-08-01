@@ -1,0 +1,203 @@
+
+{	
+	"waktu":"60",
+	"soals"	:	
+			[
+				{
+					"id"	:"ASI001",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI001A",
+				 						"text" : "Visioner"
+				 					},
+				 					{
+				 						"id" : "ASI001B",
+				 						"text" : "memperbaiki"
+				 					},
+				 					{
+				 						"id" : "ASI001C",
+				 						"text" : "mengarahkan"
+				 					},
+				 					{
+				 						"id" : "ASI001D",
+				 						"text" : "Positif"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI002",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI002A",
+				 						"text" : "strategi"
+				 					},
+				 					{
+				 						"id" : "ASI002B",
+				 						"text" : "waspada"
+				 					},
+				 					{
+				 						"id" : "ASI002C",
+				 						"text" : "memotivasi"
+				 					},
+				 					{
+				 						"id" : "ASI002D",
+				 						"text" : "Menginspirasi"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI003",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI003A",
+				 						"text" : "kreatif"
+				 					},
+				 					{		
+				 						"id" : "ASI003B",
+				 						"text" : "teratur"
+				 					},
+				 					{				
+				 						"id" : "ASI003C",
+				 						"text" : "menantang"
+				 					},
+				 					{						
+				 						"id" : "ASI003D",
+				 						"text" : "Bersahabat"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI004",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI004A",
+				 						"text" : "analitis"
+				 					},			
+				 					{
+				 						"id" : "ASI004B",
+				 						"text" : "disiplin"
+				 					},
+				 					{			
+				 						"id" : "ASI004C",
+				 						"text" : "memaksimalkan"
+				 					},
+				 					{					
+				 						"id" : "ASI004D",
+				 						"text" : "Harmoni"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI005",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI005A",
+				 						"text" : "pembelajar"
+				 					},
+				 					{
+				 						"id" : "ASI005B",
+				 						"text" : "konsisten"
+				 					},
+				 					{			
+				 						"id" : "ASI005C",
+				 						"text" : "menugaskan"
+				 					},
+				 					{					
+				 						"id" : "ASI005D",
+				 						"text" : "Beradaptasi"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI006",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI006A",
+				 						"text" : "penjelajah"
+				 					},
+				 					{
+				 						"id" : "ASI006B",
+				 						"text" : "fokus"
+				 					},
+				 					{			
+				 						"id" : "ASI006C",
+				 						"text" : "meyakinkan"
+				 					},
+				 					{					
+				 						"id" : "ASI006D",
+				 						"text" : "Selektif"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI007",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI007A",
+				 						"text" : "pemikir"
+				 					},
+				 					{
+				 						"id" : "ASI007B",
+				 						"text" : "pencapai"
+				 					},
+				 					{			
+				 						"id" : "ASI007C",
+				 						"text" : "menyampaikan"
+				 					},
+				 					{					
+				 						"id" : "ASI007D",
+				 						"text" : "Sebab akibat"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"ASI008",
+					"pertanyaan":"",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "ASI008A",
+				 						"text" : "konteks"
+				 					},
+				 					{
+				 						"id" : "ASI008B",
+				 						"text" : "tanggung jawab"
+				 					},
+				 					{			
+				 						"id" : "ASI008C",
+				 						"text" : "mengesankan"
+				 					},
+				 					{					
+				 						"id" : "ASI008D",
+				 						"text" : "Berempati"
+				 					}
+				 					
+				 				]
+				}
+
+
+
+
+
+			]
+}

@@ -1,0 +1,51 @@
+{	
+	"waktu":"50",
+	"soals"	:	
+			[
+				{
+					"id"	:"10001",
+					"pertanyaan":"ini adalah contoh pertanyaan 1 ? asdf asfasf asf asf asf asf asf",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "10001a",
+				 						"text" : "pilihan 1 dari pertanyaan 1"
+				 					},
+				 					{
+				 						"id" : "10001b",
+				 						"text" : "pilihan 1 dari pertanyaan b"
+				 					},
+				 					{
+				 						"id" : "10001c",
+				 						"text" : "pilihan 1 dari pertanyaan c"
+				 					},
+				 					{
+				 						"id" : "10001d",
+				 						"text" : "pilihan 1 dari pertanyaan d"
+				 					}
+				 					
+				 				]
+				},
+				{
+					"id"	:"10002",
+				 	"pertanyaan":"ini adalah contoh pertanyaan 2 ? asfa sfasf asf asf ",
+				 	"pilihan":	[	
+				 					{
+				 						"id":"10002a",
+				 						"text":"pilihan 1 dari pertanyaan 2"
+				 					},
+				 					{
+				 						"id":"10002b",
+				 						"text":"pilihan 2 dari pertanyaan 2"
+				 					},
+				 					{
+				 						"id":"10002a",
+				 						"text":"pilihan 3 dari pertanyaan 2"
+				 					},
+				 					{
+				 						"id":"10002a",
+				 						"text":"pilihan 4 dari pertanyaan 2"
+				 					}
+				 				]	
+				}
+			]
+}

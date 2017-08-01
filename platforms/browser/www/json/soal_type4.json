@@ -1,0 +1,46 @@
+{	
+	"waktu":"5",
+	"soals"	:	
+				[
+					{
+						"nomorId"	:"40001",
+						"pertanyaan":"ini adalah contoh pertanyaan 1 ?",
+					 	"pilihan":	[	
+					 					"BENAR",
+					 					"SALAH"
+					 				]
+					},
+					{
+						"nomorId"	:"40002",
+					 	"pertanyaan":"ini adalah contoh pertanyaan 2 ?",
+					 	"pilihan":	[	
+					 					"BENAR",
+					 					"SALAH"
+					 				]	
+					},
+					{
+						"nomorId"	:"40003",
+					 	"pertanyaan":"ini adalah contoh pertanyaan 3 ?",
+					 	"pilihan":	[	
+					 					"BENAR",
+					 					"SALAH"
+					 				]	
+					},
+					{
+						"nomorId"	:"40004",
+					 	"pertanyaan":"ini adalah contoh pertanyaan 4 ?",
+					 	"pilihan":	[	
+					 					"BENAR",
+					 					"SALAH"
+					 				]	
+					},
+					{
+						"nomorId"	:"40005",
+					 	"pertanyaan":"ini adalah contoh pertanyaan 5 ?",
+					 	"pilihan":	[	
+					 					"BENAR",
+					 					"SALAH"
+					 				]	
+					}
+				]
+}

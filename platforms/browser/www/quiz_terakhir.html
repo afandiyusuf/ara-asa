@@ -1,0 +1,126 @@
+<!doctype html> 
+<html lang="en"> 
+<head> 
+	<meta charset="UTF-8" />
+	<title>Quiz terakhir</title>
+
+    <!-- script phaser -->
+    <script type="text/javascript" src="./js/phaser/phaser.min.js"></script>
+
+    
+    <style type="text/css">
+
+        body {
+            margin: center;
+            padding: center;
+        }
+
+    </style>
+</head>
+
+<body>
+
+     <script type="text/javascript">
+
+    window.onload = function() {
+
+
+        var game = new Phaser.Game(399, 638, Phaser.AUTO, '', { preload: preload, create: create });
+
+        function preload () {
+            
+            game.load.atlasJSONHash('nextButtonSheet', 'Assets/Button/sheet/button_sheet.png', 'Assets/Button/sheet/button_sheet.json');
+
+
+
+        }
+
+        function create () {
+
+            game.stage.backgroundColor = "#2d2f3b";
+            
+
+
+            var style = { font: "24px Open Sans", fill: "#FFF", boundsAlignH: "center", boundsAlignV: "middle" };
+            var style1 = { font: "bold 24px Open Sans", fill: "#27beb7", boundsAlignH: "center", boundsAlignV: "middle" };
+            var style2 = { font: "bold 24px Open Sans", fill: "#ff3c5e", boundsAlignH: "center", boundsAlignV: "middle" };  
+
+        text = game.add.text(190,200,"Pilih antara",style);
+        text.anchor.set(0.5);
+        text = game.add.text(130,223,"Ya",style1);
+        text.anchor.set(0.5);
+        text = game.add.text(175,223,"atau",style);
+        text.anchor.set(0.5);
+        text = game.add.text(235,223,"Tidak",style2);
+        text.anchor.set(0.5);
+        text = game.add.text(192,245,"dari dua pilihan",style);
+        text.anchor.set(0.5);
+        text = game.add.text(190,267,"yang tersedia",style);
+        text.anchor.set(0.5);
+        text = game.add.text(188,290,"dan",style);
+        text.anchor.set(0.5);
+        text = game.add.text(190,312,"yang paling sesuai",style);
+        text.anchor.set(0.5);
+        text = game.add.text(190,337,"dengan Anda",style);
+        text.anchor.set(0.5);
+
+
+        var button = game.add.button(199.5, 530, 'nextButtonSheet', this.click, this, 'Start button_red', 'Start button_red', 'Start button_red_act');
+            button.scale.setTo(1);
+            button.anchor.set(0.5);
+            //button.onInputDown.add(this.onButtonDown, this);
+           // button.onInputUp.add(this.onButtonUp, this);
+        }
+
+    //nextScene: function() {
+
+   // this.fade('choseLine');
+
+   // },
+
+   // onButtonUp1: function(){
+     //   button1.scale.set(2.3);
+   // },
+
+   // onButtonDown1: function(){
+   //     button1.scale.set(2.3);
+   // },
+
+   //fade: function (nextState)     
+   // {        
+   //     var spr_bg = this.game.add.graphics(0, 0);        
+   //     spr_bg.beginFill(this.fadeColor, 1);        
+   //     spr_bg.drawRect(0, 0, this.game.width, this.game.height);        
+    //    spr_bg.alpha = 0;        
+    //    spr_bg.endFill();        
+    //    this.nextState = nextState;        
+    //    s = this.game.add.tween(spr_bg)        
+    //    s.to({ alpha: 1 }, 500, null)        
+   //     s.onComplete.add(this.changeState, this)        
+   //     s.start();    
+   // },    
+
+    //changeState: function ()     
+    //{        
+    //    this.game.state.start(this.nextState);        
+    //    this.fadeOut();    
+    //},    
+
+    //fadeOut: function ()     
+    //{        
+     //   var spr_bg = this.game.add.graphics(0, 0);        
+     //   spr_bg.beginFill(this.fadeColor, 1);        
+     //   spr_bg.drawRect(0, 0, this.game.width, this.game.height);        
+     //   spr_bg.alpha = 1;        
+     //   spr_bg.endFill();        
+     //   s = this.game.add.tween(spr_bg)        
+     //   s.to({ alpha: 0 }, 600, null)        
+     //   s.start();    
+  //  }
+
+    };
+
+
+</script>
+</body>
+</html>

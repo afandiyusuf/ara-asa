@@ -1,0 +1,299 @@
+
+{	
+	"waktu":"60",
+	"soals"	:	
+			[
+				{
+					"id"	:"DIS001",
+					"pertanyaan":"Yang terpenting bagiku dalam bekerja kelompok adalah.....",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS001A",
+				 						"text" : "Membantu teman-teman dalam suasana yang damai."
+				 					},
+				 					{
+				 						"id" : "DIS001B",
+				 						"text" : "Menjadi pemimpin kelompok dan mengatur tim."
+				 					},
+				 					{
+				 						"id" : "DIS001C",
+				 						"text" : "Fokus pada pekerjaan dan hasilnya saja."
+				 					},
+				 					{
+				 						"id" : "DIS001D",
+				 						"text" : "Mengerti tugas-tugas yang diberikan dan menyelesaikan sesuai rencana bersama."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS002",
+					"pertanyaan":"Kalau saya tidak setuju, reaksi saya cenderung untuk.....",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS002A",
+				 						"text" : "Langsung menyatakan tidak setuju."
+				 					},
+				 					{
+				 						"id" : "DIS001B",
+				 						"text" : "Menanyakan kenapa sebelum memberi alasan"
+				 					},
+				 					{
+				 						"id" : "DIS001C",
+				 						"text" : "Setuju saja daripada jadi masalah."
+				 					},
+				 					{
+				 						"id" : "DIS001D",
+				 						"text" : "Bercanda supaya orang lain tidak jadi marah."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS003",
+					"pertanyaan":"Saat saya bekerja dalam team dan kita menemukan kesulitan, saya cenderung bilang.....",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS003A",
+				 						"text" : "Coba kita pikirkan kembali. Apakah kita punya semua informasi yang diperlukan?"
+				 					},
+				 					{		
+				 						"id" : "DIS003B",
+				 						"text" : "Ayo kita ambil keputusan!"
+				 					},
+				 					{				
+				 						"id" : "DIS003C",
+				 						"text" : "Tenang saja, kita jalan saja dulu."
+				 					},
+				 					{						
+				 						"id" : "DIS003D",
+				 						"text" : "Bagaimana menurutmu? Setuju tidak kalau begini..."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS004",
+					"pertanyaan":"Menghadapi pelajaran detil seperti meneliti, sikap saya cenderung... ",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS004A",
+				 						"text" : "Saya kerjakan agar lebih dihargai teman-teman."
+				 					},			
+				 					{
+				 						"id" : "DIS004B",
+				 						"text" : "Demi membantu orang lain, saya kerjakan."
+				 					},
+				 					{			
+				 						"id" : "DIS004C",
+				 						"text" : "Wah, asyik saya senang meneliti."
+				 					},
+				 					{					
+				 						"id" : "DIS004D",
+				 						"text" : "Saya kerjakan jika dibutuhkan untuk mendapat hasil yang baik."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS005",
+					"pertanyaan":"Saat Saya menghadiri acara dengan banyak tamu/teman, saya cenderung...",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS005A",
+				 						"text" : "Bertemu dengan orang-orang yang perlu saja."
+				 					},
+				 					{
+				 						"id" : "DIS005B",
+				 						"text" : "Duduk tenang sampai ada yang menyapa."
+				 					},
+				 					{			
+				 						"id" : "DIS005C",
+				 						"text" : "Ngobrol dengan teman-teman yang sudah akrab."
+				 					},
+				 					{					
+				 						"id" : "DIS005D",
+				 						"text" : "Menyapa semua orang, dan berusaha menyenangkan orang lain."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS006",
+					"pertanyaan":"Diri saya itu.....",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS006A",
+				 						"text" : "Sabar, baik dan tolong menolong."
+				 					},
+				 					{
+				 						"id" : "DIS006B",
+				 						"text" : "Pintar, sesuai fakta dan tegas."
+				 					},
+				 					{			
+				 						"id" : "DIS006C",
+				 						"text" : "Cermat, perfeksionis."
+				 					},
+				 					{					
+				 						"id" : "DIS006D",
+				 						"text" : "Ramah dan menyenangkan."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS007",
+					"pertanyaan":"Saat saya dengar akan ada perubahan rencana, reaksi saya cenderung …?",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS007A",
+				 						"text" : "Kenapa harus berubah?"
+				 					},
+				 					{
+				 						"id" : "DIS007B",
+				 						"text" : "Kalau dirubah nanti ga masalah?"
+				 					},
+				 					{			
+				 						"id" : "DIS007C",
+				 						"text" : "Nanti kita bagaimana?"
+				 					},
+				 					{					
+				 						"id" : "DIS007D",
+				 						"text" : "Apa pengaruhnya untuk saya?"
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS008",
+					"pertanyaan":"Pernyataan yang paling mirip dengan cara belajar saya adalah …",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS008A",
+				 						"text" : "Selesaikan yang ini.  Lalu lanjut ke berikutnya"
+				 					},
+				 					{
+				 						"id" : "DIS008B",
+				 						"text" : "Bersama siapa saya akan mengerjakan ini? Ada teman diskusi?"
+				 					},
+				 					{			
+				 						"id" : "DIS008C",
+				 						"text" : "saya harus kerjakan ini dengan cara bagaimana?"
+				 					},
+				 					{					
+				 						"id" : "DIS008D",
+				 						"text" : "Jalankan sesuai rencana saya."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS009",
+					"pertanyaan":"Tipe aktivitas yang paing saya sukai harus",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS009A",
+				 						"text" : "Interaksi dengan orang banyak supaya semangat, banyak ide dan energi"
+				 					},
+				 					{
+				 						"id" : "DIS009B",
+				 						"text" : "Kerja cepat, setelah itu kerjakan tugas baru lagi. "
+				 					},
+				 					{			
+				 						"id" : "DIS009C",
+				 						"text" : "Bekerja sendiri dan fokus menyelesaikan tugas dengan sempurna."
+				 					},
+				 					{					
+				 						"id" : "DIS009D",
+				 						"text" : "nyaman dan teratur yang membuat semua puas."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS010",
+					"pertanyaan":"Saat menerima telpon, yang paling menarik bagi saya adalah …",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS010A",
+				 						"text" : "Bagaimana saya bisa bantu."
+				 					},
+				 					{
+				 						"id" : "DIS010B",
+				 						"text" : "Apa keperluannya."
+				 					},
+				 					{			
+				 						"id" : "DIS010C",
+				 						"text" : "Kenapa dia telepon saya."
+				 					},
+				 					{					
+				 						"id" : "DIS010D",
+				 						"text" : "Berbincang-bincang dengan si penelepon."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS011",
+					"pertanyaan":"Saya paling senang mendengar pujian seperti …",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS011A",
+				 						"text" : "Bagus juga hasil karyamu."
+				 					},
+				 					{
+				 						"id" : "DIS011B",
+				 						"text" : "Banyak juga yang kamu selesaikan."
+				 					},
+				 					{			
+				 						"id" : "DIS011C",
+				 						"text" : "Wah! Kamu memang hebat!"
+				 					},
+				 					{					
+				 						"id" : "DIS011D",
+				 						"text" : "Saya bersyukur ada kamu di sini."
+				 					}
+				 					
+				 				]
+				},
+
+				{
+					"id"	:"DIS012",
+					"pertanyaan":"Saya lebih senang mengerjakan tugas atau proyek yang membuat saya bisa …",
+				 	"pilihan":	[	
+				 					{
+				 						"id" : "DIS012A",
+				 						"text" : "Mencapai hasil besar dan mengatasi tantangan."
+				 					},
+				 					{
+				 						"id" : "DIS012B",
+				 						"text" : "Bekerja dengan banyak orang lain di berbagai macam tugas agar lebih mengasyikkan."
+				 					},
+				 					{			
+				 						"id" : "DIS012C",
+				 						"text" : "Melakukan tugas yang saya kuasai dengan tidak terburu-buru."
+				 					},
+				 					{					
+				 						"id" : "DIS012D",
+				 						"text" : "Kita periksa dulu, susun rencana dulu, baru kerjakan"
+				 					}
+				 					
+				 				]
+				}
+
+
+
+
+
+			]
+}

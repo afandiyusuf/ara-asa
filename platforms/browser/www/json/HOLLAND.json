@@ -1,0 +1,174 @@
+{	
+	"waktu":"60",
+	"soals"	:	
+				[
+					{
+ 						"text":"Merakit mesin",
+ 						"id":"HOL001"
+ 					},
+ 					{
+ 						"text":"Reparasi kendaraan",
+ 						"id":"HOL002"
+ 					},
+ 					{
+ 						"text":"Merakit alat elektronik dan komputer",
+ 						"id":"HOL003"
+ 					},
+ 					{
+ 						"text":"menyusun lego",
+ 						"id":"HOL004"
+ 					},
+ 					{
+ 						"text":"seni rupa",
+ 						"id":"HOL005"
+ 					},
+ 					{
+ 						"text":"Membuat pahatan batu",
+ 						"id":"HOL006"
+ 					},
+ 					{
+ 						"text":"Merakit alat robotik",
+ 						"id":"HOL007"
+ 					},
+ 					{
+ 						"text":"Membaca buku ilmiah",
+ 						"id":"HOL008"
+ 					},
+ 					{
+ 						"text":"creative writing (menulis kreatif)",
+ 						"id":"HOL009"
+ 					},
+ 					{
+ 						"text":"Menyelesaikan teka-teki",
+ 						"id":"HOL010"
+ 					},
+ 					{
+ 						"text":"bermain catur",
+ 						"id":"HOL011"
+ 					},
+ 					{
+ 						"text":"menulis blog/artikel",
+ 						"id":"HOL012"
+ 					},
+ 					{
+ 						"text":"mempelajari dinosaurus",
+ 						"id":"HOL013"
+ 					},
+ 					{
+ 						"text":"mengumpulkan serangga",
+ 						"id":"HOL014"
+ 					},
+ 					{
+ 						"text":"Membuat sketsa dan mewarnai",
+ 						"id":"HOL015"
+ 					},
+ 					{
+ 						"text":"bermain drama/teater",
+ 						"id":"HOL016"
+ 					},
+ 					{
+ 						"text":"Merancang design interior",
+ 						"id":"HOL017"
+ 					},
+ 					{
+ 						"text":"Bermain alat musik",
+ 						"id":"HOL018"
+ 					},
+ 					{
+ 						"text":"Bergabung dalam grup band",
+ 						"id":"HOL019"
+ 					},
+ 					{
+ 						"text":"membaca karya fiksi",
+ 						"id":"HOL020"
+ 					},
+ 					{
+ 						"text":"fotografi",
+ 						"id":"HOL021"
+ 					},
+ 					{
+ 						"text":"mengambil keputusan",
+ 						"id":"HOL021"
+ 					},
+ 					{
+ 						"text":"Menjual barang",
+ 						"id":"HOL021"
+ 					},
+ 					{
+ 						"text":"diskusi soal politik",
+ 						"id":"HOL022"
+ 					},
+ 					{
+ 						"text":"mendirikan usaha",
+ 						"id":"HOL023"
+ 					},
+ 					{
+ 						"text":"diskusi soal keuangan",
+ 						"id":"HOL024"
+ 					},
+ 					{
+ 						"text":"Memberikan pidato",
+ 						"id":"HOL025"
+ 					},
+ 					{
+ 						"text":"memotivasi",
+ 						"id":"HOL026"
+ 					},
+ 					{
+ 						"text":"backpacking/travelling",
+ 						"id":"HOL027"
+ 					},
+ 					{
+ 						"text":"olahraga",
+ 						"id":"HOL028"
+ 					},
+ 					{
+ 						"text":"menjadi juru bicara",
+ 						"id":"HOL029"
+ 					},
+ 					{
+ 						"text":"skateboarding",
+ 						"id":"HOL030"
+ 					},
+ 					{
+ 						"text":"mengunjungi event/pameran",
+ 						"id":"HOL031"
+ 					},
+ 					{
+ 						"text":"Berkumpul dengan teman",
+ 						"id":"HOL032"
+ 					},
+ 					{
+ 						"text":"Menghadiri pesta",
+ 						"id":"HOL033"
+ 					},
+ 					{
+ 						"text":"memelihara hewan",
+ 						"id":"HOL034"
+ 					},
+ 					{
+ 						"text":"mengumpulkan benda antik",
+ 						"id":"HOL035"
+ 					},
+ 					{
+ 						"text":"mengkoleksi buku",
+ 						"id":"HOL036"
+ 					},
+ 					{
+ 						"text":"mengumpulkan action figure",
+ 						"id":"HOL037"
+ 					},
+ 					{
+ 						"text":"mengumpulkan koin antik",
+ 						"id":"HOL038"
+ 					},
+ 					{
+ 						"text":"mendengarkan musik",
+ 						"id":"HOL039"
+ 					},
+ 					{
+ 						"text":"filosofi kopi",
+ 						"id":"HOL040"
+ 					}
+				]
+}

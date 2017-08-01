@@ -1,0 +1,580 @@
+{	
+	"waktu":"60",
+	"soals"	:	
+				[
+					{
+						"id"	:"MBT001",
+						"pertanyaan":"Saya akan mendapat Ide atau inspirasi menarik jika…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Diskusi dengan teman",
+					 						"id":"MBT001A"
+					 					},
+					 					{
+					 						"text":"Diam dan memikirkannya.",
+					 						"id":"MBT001B"
+					 					}
+
+					 				]
+					},
+					{
+						"id"	:"MBT002",
+						"pertanyaan":"Saya lebih tertarik…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Berbicara dari pada mendengarkan.",
+					 						"id":"MBT002A"
+					 					},
+					 					{
+					 						"text":"Mendengarkan dari pada berbicara.",
+					 						"id":"MBT002B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT003",
+						"pertanyaan":"Saya lebih senang dengan kegiatan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Arung jeram bersama teman-teman.",
+					 						"id":"MBT003A"
+					 					},
+					 					{
+					 						"text":"Menulis cerita pendek atau novel di kamar.",
+					 						"id":"MBT003B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT004",
+						"pertanyaan":"Saya hanya akan mendapatkan energi dan bersemangat jika…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Berinteraksi dengan teman-teman.",
+					 						"id":"MBT004A"
+					 					},
+					 					{
+					 						"text":"Merenung yang jauh dari keramaian.",
+					 						"id":"MBT004B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT005",
+						"pertanyaan":"Di pesta ulang tahun teman, saya lebih suka…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Berbincang-bincang dan bercanda tawa dengan banyak orang.",
+					 						"id":"MBT005A"
+					 					},
+					 					{
+					 						"text":"Mengobrol berdua atau tiga orang dengan teman paling dekat.",
+					 						"id":"MBT005B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT006",
+						"pertanyaan":"Ketika saya bertemu teman di jalan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Lebih dahulu menyapa teman.",
+					 						"id":"MBT006A"
+					 					},
+					 					{
+					 						"text":"Lebih baik menjawab sapaan teman.",
+					 						"id":"MBT006B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT007",
+						"pertanyaan":"Apa yang ada dalam pikiran dan hati, saya akan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Langsung mengungkapkannya kepada orang lain",
+					 						"id":"MBT007A"
+					 					},
+					 					{
+					 						"text":"Memikirkan kembali dan menimbang-nimbangnya sebelum berbicara.",
+					 						"id":"MBT007B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT008",
+						"pertanyaan":"Saya suka…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mendatangi dari pada didatangi orang lain.",
+					 						"id":"MBT008A"
+					 					},
+					 					{
+					 						"text":"Didatangi orang lain dari pada mendatangi.",
+					 						"id":"MBT008B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT009",
+						"pertanyaan":"Jika bekerja, saya lebih suka…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Berkelompok dengan situasi yang ramai.",
+					 						"id":"MBT009A"
+					 					},
+					 					{
+					 						"text":"Dalam kondisi hening dan menyendiri supaya lebih konsentrasi.",
+					 						"id":"MBT009B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT010",
+						"pertanyaan":"Dalam menyelesaikan pekerjaan, saya lebih tertarik dengan cara…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mengikuti petunjuk.",
+					 						"id":"MBT010A"
+					 					},
+					 					{
+					 						"text":"Inovasi dan kreatifitas.",
+					 						"id":"MBT010B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT011",
+						"pertanyaan":"Saya lebih tertarik dengan hal yang…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Nyata dan terlihat.",
+					 						"id":"MBT011A"
+					 					},
+					 					{
+					 						"text":"Abstrak dan imajinatif.",
+					 						"id":"MBT011B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT012",
+						"pertanyaan":"Yang utama bagi saya…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Masalah dapat selesai dengan cara praktis",
+					 						"id":"MBT012A"
+					 					},
+					 					{
+					 						"text":"Masalah dapat selesai dengan cara yang inovatif, kreatif, unik dan berbeda.",
+					 						"id":"MBT012B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT013",
+						"pertanyaan":"Ketika berbicara, saya selalu…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Rinci sejelas-jelasnya",
+					 						"id":"MBT013A"
+					 					},
+					 					{
+					 						"text":"Menggunakan cerita atau kiasan.",
+					 						"id":"MBT013B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT014",
+						"pertanyaan":"Bagi saya putih adalah…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Warna.",
+					 						"id":"MBT014A"
+					 					},
+					 					{
+					 						"text":"Bersih dan suci.",
+					 						"id":"MBT014B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT015",
+						"pertanyaan":"Dalam mengumpulkan dan memahami informasi, saya lebih tertarik menggunakan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mata dan telinga.",
+					 						"id":"MBT015A"
+					 					},
+					 					{
+					 						"text":"Menggunakan imajinasi dan inspirasi.",
+					 						"id":"MBT015B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT016",
+						"pertanyaan":"Saya tertarik…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Memperhatikan hal-hal yang detail dan rinci.",
+					 						"id":"MBT016A"
+					 					},
+					 					{
+					 						"text":"Mencari perbandingan dan asal usul.",
+					 						"id":"MBT016B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT017",
+						"pertanyaan":"Saya lebih tertarik…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mengamati secara seksama.",
+					 						"id":"MBT017A"
+					 					},
+					 					{
+					 						"text":"menghayalkan secara imajinatif.",
+					 						"id":"MBT017B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT018",
+						"pertanyaan":"Saya memahami persoalan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Apa yang saya lihat dan dengar.",
+					 						"id":"MBT018A"
+					 					},
+					 					{
+					 						"text":"Umumnya saja.",
+					 						"id":"MBT018B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT019",
+						"pertanyaan":"Ketika berinterkasi dengan teman-teman, saya suka…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"berbicara tegas dan lugas.",
+					 						"id":"MBT019A"
+					 					},
+					 					{
+					 						"text":"Berbicara dengan hati-hati untuk tidak menyinggung orang lain.",
+					 						"id":"MBT019B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT020",
+						"pertanyaan":"Saya tertarik dengan sikap…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Tegas.",
+					 						"id":"MBT020A"
+					 					},
+					 					{
+					 						"text":"Bijak.",
+					 						"id":"MBT020B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT021",
+						"pertanyaan":"Dalam mengambil keputusan untuk menolong orang saya lebih menekankan pada",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"pertimbangan perlu atau tidaknya saya membantu orang tersebut.",
+					 						"id":"MBT021A"
+					 					},
+					 					{
+					 						"text":"pertimbangan kalau seandainya saya berada dalam keadaan seperti orang tersebut.",
+					 						"id":"MBT021B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT022",
+						"pertanyaan":"Jika teman saya terhimpit kesulitan, saya akan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Menawarkan jalan penyelesaiannya.",
+					 						"id":"MBT022A"
+					 					},
+					 					{
+					 						"text":"Menunjukan simpati dan menenangkannya.",
+					 						"id":"MBT022B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT023",
+						"pertanyaan":"Jika orang lain mengkritik saya, saya akan …",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mencari alasan sebab yang jelas kenapa orang memarahi saya.",
+					 						"id":"MBT023A"
+					 					},
+					 					{
+					 						"text":"Menjadi sakit hati, sedih, tersinggung, dan marah.",
+					 						"id":"MBT023B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT024",
+						"pertanyaan":"Saya mengutamakan pada…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Benar dan salah",
+					 						"id":"MBT024A"
+					 					},
+					 					{
+					 						"text":"Suka atau tidak suka.",
+					 						"id":"MBT024B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT025",
+						"pertanyaan":"Saya mengutamakan pada …",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Apa yang saya pikirkan.",
+					 						"id":"MBT025A"
+					 					},
+					 					{
+					 						"text":"Apa yang saya rasakan.",
+					 						"id":"MBT025B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT026",
+						"pertanyaan":"Dalam diksusi dan perdebatan saya …",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Sering melemparkan kritikan dan banyak mengeluarkan tawaran solusi.",
+					 						"id":"MBT026A"
+					 					},
+					 					{
+					 						"text":"Menghindari perselisihan pendapat, cenderung Menjadi penengah.",
+					 						"id":"MBT026B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT027",
+						"pertanyaan":"Saya mengambil keputusan dengan pertimbangan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Logis  dan masuk akal.",
+					 						"id":"MBT027A"
+					 					},
+					 					{
+					 						"text":"Memperhatikan perasaan orang lain.",
+					 						"id":"MBT027B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT028",
+						"pertanyaan":"Saya suka dengan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Rencana yang matang dan pasti.",
+					 						"id":"MBT028A"
+					 					},
+					 					{
+					 						"text":"Kejutan atau hal-hal diluar perkiraan.",
+					 						"id":"MBT028B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT029",
+						"pertanyaan":"Orang beranggapan bahwa saya…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Teratur, terencana, serius",
+					 						"id":"MBT029A"
+					 					},
+					 					{
+					 						"text":"Fleksibel, spontan, periang, kurang disiplin.",
+					 						"id":"MBT029B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT030",
+						"pertanyaan":"Saya menganggap jadwal dan petunjuk merupakan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"pegangan yang harus dipatuhi.",
+					 						"id":"MBT030A"
+					 					},
+					 					{
+					 						"text":"Pengingat saja, dan bisa bekerja dengan cara saya sendiri.",
+					 						"id":"MBT030B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT031",
+						"pertanyaan":"Saya menyukai pola hidup…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Rapi dan terstruktur.",
+					 						"id":"MBT031A"
+					 					},
+					 					{
+					 						"text":"Apa adanya.",
+					 						"id":"MBT031B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT032",
+						"pertanyaan":"Selama menyelesaikan pekerjaan, saya akan terganggu dengan…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Kejutan atau perubahan secara tiba-tiba yang menyimpang dari rencana awal.",
+					 						"id":"MBT032A"
+					 					},
+					 					{
+					 						"text":"kententuan yang membatasi, serta waktu yang menekan.",
+					 						"id":"MBT032B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT033",
+						"pertanyaan":"Dalam menghadapi situasi yang tidak pasti, saya merasa…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Cemas.",
+					 						"id":"MBT033A"
+					 					},
+					 					{
+					 						"text":"Tertantang.",
+					 						"id":"MBT033B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT034",
+						"pertanyaan":"Dalam mengatur ruang kerja saya, saya lebih senang…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Membiarkan susunan yang sudah ditentukan.",
+					 						"id":"MBT034A"
+					 					},
+					 					{
+					 						"text":"Merubah-rubah susunannya.",
+					 						"id":"MBT034B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT035",
+						"pertanyaan":"Dalam mengerjakan suatu tugas, saya lebih sering",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Mengikuti petunjuk yang pasti.",
+					 						"id":"MBT035A"
+					 					},
+					 					{
+					 						"text":"Mencoba-coba berdasarkan pemikiran yang muncul pada waktu menjalankannya.",
+					 						"id":"MBT035B"
+					 					}
+
+					 				]
+					},
+
+					{
+						"id"	:"MBT036",
+						"pertanyaan":"Dalam kegiatan sehari-hari biasanya saya…",
+					 	"pilihan":	[	
+					 					{
+					 						"text":"Membuat rancangan khusus untuk kegiatan selama satu minggu.",
+					 						"id":"MBT036A"
+					 					},
+					 					{
+					 						"text":"Langsung menjalaninya tanpa membuat rencana sebelumnya.",
+					 						"id":"MBT036B"
+					 					}
+
+					 				]
+					}
+				]
+}

@@ -1,0 +1,34 @@
+{	
+	"waktu":"5",
+	"soals"	:	
+				[
+					{
+						"id"	:"20001",
+						"pertanyaan":"ini adalah contoh pertanyaan 1 ?",
+					 	"pilihan":	[	
+					 					{
+					 						"id" : "20001a",
+					 						"text" : "pilihan a dari pertanyaan 1"
+					 					},
+					 					{
+					 						"id" : "20001b",
+					 						"text" : "pilihan b dari pertanyaan 1"
+					 					}
+					 				]
+					},
+					{
+						"id"	:"20002",
+						"pertanyaan":"ini adalah contoh pertanyaan 1 ?",
+					 	"pilihan":	[	
+					 					{
+					 						"id" : "20002a",
+					 						"text" : "pilihan a dari pertanyaan 1"
+					 					},
+					 					{
+					 						"id" : "20002b",
+					 						"text" : "pilihan b dari pertanyaan 1"
+					 					}
+					 				]
+					}
+				]
+}
